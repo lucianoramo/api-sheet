@@ -7,7 +7,9 @@ document.getElementById("row-567154182").appendChild(template)
 
 
 // Default options are marked with *
-fetch(url).then(response => response.json()).then(data => console.log(data))
+fetch(url,{
+    mode: 'no-cors',
+}).then(response => response.json()).then(data => console.log(data))
 
 
 /*
