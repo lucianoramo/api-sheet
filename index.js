@@ -14,7 +14,7 @@ fetch(url,{
     cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
     //credentials: 'same-origin', // include, *same-origin, omit
     headers: {
-        'Content-Type': 'application/json'
+        'Content-Type': 'application/json',
         // 'Content-Type': 'application/x-www-form-urlencoded',
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
         'accept-encoding': `gzip, deflate, br`,
