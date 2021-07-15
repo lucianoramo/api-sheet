@@ -1,5 +1,5 @@
 const template = document.getElementById("template").content;
-const url = 'https://script.google.com/macros/s/AKfycbxkES476KYOYlIrvzn5uKFVbFxUILyddsO1R4fzAhI/dev'
+const url = 'https://script.google.com/macros/s/AKfycbzugO5ZNvgGJrTCqZnChoqD-5SHDxzWdBJr0rttMbsmLozMPYLxe7YnYsYUvgPiOWGd/exec'
 //const url = 'https://api.github.com/users/defunkt'
 
 
